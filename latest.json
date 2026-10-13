@@ -6,5 +6,5 @@
     "arm64-v8a": "https://cdn.jsdelivr.net/gh/vortramm/transcript_release@990f5cc26ad855bef52bc1b462cc004d77fc5044/TranscriptRecorder-arm64.apk",
     "armeabi-v7a": "https://cdn.jsdelivr.net/gh/vortramm/transcript_release@990f5cc26ad855bef52bc1b462cc004d77fc5044/TranscriptRecorder-armv7.apk"
   },
-  "notes": "화자 구분(화자 1, 화자 2…), 시작 애니메이션"
+  "notes": "기능 추가와 화면 개선"
 }
