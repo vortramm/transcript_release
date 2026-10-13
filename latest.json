@@ -1,0 +1,10 @@
+{
+  "versionCode": 3,
+  "versionName": "1.2",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/vortramm/transcript_release@3d0c4b0e871000229513d497dc74529bcdaa6780/TranscriptRecorder-arm64.apk",
+  "apkUrls": {
+    "arm64-v8a": "https://cdn.jsdelivr.net/gh/vortramm/transcript_release@3d0c4b0e871000229513d497dc74529bcdaa6780/TranscriptRecorder-arm64.apk",
+    "armeabi-v7a": "https://cdn.jsdelivr.net/gh/vortramm/transcript_release@3d0c4b0e871000229513d497dc74529bcdaa6780/TranscriptRecorder-armv7.apk"
+  },
+  "notes": "앱 내 업데이트 기능 시험 배포 (기능 변경 없음)"
+}
