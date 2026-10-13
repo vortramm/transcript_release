@@ -1,10 +1,10 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/vortramm/transcript_release@6718766eaff020822ca6f0cc352d7b6f766add73/TranscriptRecorder-arm64.apk",
+  "versionCode": 6,
+  "versionName": "1.5",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/vortramm/transcript_release@9a829e7de336291ca513cc07043614c23e703b9e/TranscriptRecorder-arm64.apk",
   "apkUrls": {
-    "arm64-v8a": "https://cdn.jsdelivr.net/gh/vortramm/transcript_release@6718766eaff020822ca6f0cc352d7b6f766add73/TranscriptRecorder-arm64.apk",
-    "armeabi-v7a": "https://cdn.jsdelivr.net/gh/vortramm/transcript_release@6718766eaff020822ca6f0cc352d7b6f766add73/TranscriptRecorder-armv7.apk"
+    "arm64-v8a": "https://cdn.jsdelivr.net/gh/vortramm/transcript_release@9a829e7de336291ca513cc07043614c23e703b9e/TranscriptRecorder-arm64.apk",
+    "armeabi-v7a": "https://cdn.jsdelivr.net/gh/vortramm/transcript_release@9a829e7de336291ca513cc07043614c23e703b9e/TranscriptRecorder-armv7.apk"
   },
-  "notes": "분할 화면 설정을 스크롤 없이 한 화면에(오른쪽에 영어·한국어 위아래), 설정은 바꾸면 바로 저장, 자동 스크롤 개선"
+  "notes": "무료 클라우드 번역(DeepL·Azure) 추가, 번역 방식 선택 개선, 새 앱 아이콘"
 }
