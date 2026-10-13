@@ -1,10 +1,10 @@
 {
-  "versionCode": 4,
-  "versionName": "1.3",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/vortramm/transcript_release@8aa4cce199dfdd2184009815f3f41bd383131483/TranscriptRecorder-arm64.apk",
+  "versionCode": 5,
+  "versionName": "1.4",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/vortramm/transcript_release@6718766eaff020822ca6f0cc352d7b6f766add73/TranscriptRecorder-arm64.apk",
   "apkUrls": {
-    "arm64-v8a": "https://cdn.jsdelivr.net/gh/vortramm/transcript_release@8aa4cce199dfdd2184009815f3f41bd383131483/TranscriptRecorder-arm64.apk",
-    "armeabi-v7a": "https://cdn.jsdelivr.net/gh/vortramm/transcript_release@8aa4cce199dfdd2184009815f3f41bd383131483/TranscriptRecorder-armv7.apk"
+    "arm64-v8a": "https://cdn.jsdelivr.net/gh/vortramm/transcript_release@6718766eaff020822ca6f0cc352d7b6f766add73/TranscriptRecorder-arm64.apk",
+    "armeabi-v7a": "https://cdn.jsdelivr.net/gh/vortramm/transcript_release@6718766eaff020822ca6f0cc352d7b6f766add73/TranscriptRecorder-armv7.apk"
   },
-  "notes": "기기 내 번역 모델을 받지 못하던 문제 수정, 앱 이름 변경(실시간번역), 화면 테마 선택(기본: 그래파이트 시안), 둥근 앱 아이콘"
+  "notes": "분할 화면 설정을 스크롤 없이 한 화면에(오른쪽에 영어·한국어 위아래), 설정은 바꾸면 바로 저장, 자동 스크롤 개선"
 }
