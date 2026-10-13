@@ -1,10 +1,10 @@
 {
-  "versionCode": 6,
-  "versionName": "1.5",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/vortramm/transcript_release@9a829e7de336291ca513cc07043614c23e703b9e/TranscriptRecorder-arm64.apk",
+  "versionCode": 7,
+  "versionName": "1.6",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/vortramm/transcript_release@41326a9de9c6f5de60b24b7301da58d4175e2af2/TranscriptRecorder-arm64.apk",
   "apkUrls": {
-    "arm64-v8a": "https://cdn.jsdelivr.net/gh/vortramm/transcript_release@9a829e7de336291ca513cc07043614c23e703b9e/TranscriptRecorder-arm64.apk",
-    "armeabi-v7a": "https://cdn.jsdelivr.net/gh/vortramm/transcript_release@9a829e7de336291ca513cc07043614c23e703b9e/TranscriptRecorder-armv7.apk"
+    "arm64-v8a": "https://cdn.jsdelivr.net/gh/vortramm/transcript_release@41326a9de9c6f5de60b24b7301da58d4175e2af2/TranscriptRecorder-arm64.apk",
+    "armeabi-v7a": "https://cdn.jsdelivr.net/gh/vortramm/transcript_release@41326a9de9c6f5de60b24b7301da58d4175e2af2/TranscriptRecorder-armv7.apk"
   },
-  "notes": "무료 클라우드 번역(DeepL·Azure) 추가, 번역 방식 선택 개선, 새 앱 아이콘"
+  "notes": "키 받는 법 단계별 안내(바로 열기·붙여넣기)"
 }
