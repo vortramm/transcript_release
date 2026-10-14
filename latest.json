@@ -1,10 +1,10 @@
 {
   "versionCode": 10,
   "versionName": "1.9",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/vortramm/transcript_release@10eff4f85778030f0a1dc8e9b2b310d3a0db9ccb/TranscriptRecorder-arm64.apk",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/vortramm/transcript_release@0614bd2542f992de39bbab38185744c9e4f9474c/TranscriptRecorder-arm64.apk",
   "apkUrls": {
-    "arm64-v8a": "https://cdn.jsdelivr.net/gh/vortramm/transcript_release@10eff4f85778030f0a1dc8e9b2b310d3a0db9ccb/TranscriptRecorder-arm64.apk",
-    "armeabi-v7a": "https://cdn.jsdelivr.net/gh/vortramm/transcript_release@10eff4f85778030f0a1dc8e9b2b310d3a0db9ccb/TranscriptRecorder-armv7.apk"
+    "arm64-v8a": "https://cdn.jsdelivr.net/gh/vortramm/transcript_release@0614bd2542f992de39bbab38185744c9e4f9474c/TranscriptRecorder-arm64.apk",
+    "armeabi-v7a": "https://cdn.jsdelivr.net/gh/vortramm/transcript_release@0614bd2542f992de39bbab38185744c9e4f9474c/TranscriptRecorder-armv7.apk"
   },
   "notes": "기능 추가와 오류 수정"
 }
