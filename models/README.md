@@ -12,7 +12,7 @@
 
 `parakeet-110m/` — NVIDIA Parakeet TDT 110M 영어 음성 인식 모델을 sherpa-onnx 형식(int8)으로 바꾼 것입니다.
 실시간번역 앱의 "받아쓰기: Parakeet 가벼움"을 고르면 앱이 한 번 내려받아 휴대폰 안에서만 씁니다.
-GitHub 파일 크기 제한(100MB) 때문에 encoder 를 두 조각(`.part0`, `.part1`)으로 나눴고, 앱이 이어 붙인 뒤 SHA-256 을 확인합니다.
+jsDelivr(파일당 20MB) 로 받으려고 encoder 를 18MB 조각(`.part0`~`.part7`)으로 나눴고, 앱이 이어 붙인 뒤 SHA-256 을 확인합니다.
 
 - 원본: <https://huggingface.co/nvidia/parakeet-tdt_ctc-110m> (CC BY 4.0)
 - 변환본: k2-fsa/sherpa-onnx `sherpa-onnx-nemo-parakeet_tdt_transducer_110m-en-36000-int8` — 변경 없이 재배포
